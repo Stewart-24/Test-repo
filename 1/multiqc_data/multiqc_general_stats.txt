@@ -1,0 +1,2 @@
+Sample	Picard_mqc-generalstats-picard-PCT_TARGET_BASES_30X	Picard_mqc-generalstats-picard-FOLD_ENRICHMENT	Picard_mqc-generalstats-picard-summed_median	Picard_mqc-generalstats-picard-PERCENT_DUPLICATION	Picard_mqc-generalstats-picard-summed_mean	Picard_mqc-generalstats-picard-PCT_PF_READS_ALIGNED
+NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001	0.992398	3294.787502	195	0.71928	210.38192799999996	0.998073
