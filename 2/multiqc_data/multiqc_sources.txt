@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+Picard	HsMetrics	NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001	/home/mokaguys/Documents/Nana/Test-repo/2/test_R1_001.hsmetrics.tsv
+Picard	InsertSizeMetrics	NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001	/home/mokaguys/Documents/Nana/Test-repo/2/test_R1_001.insert_size_metrics
+Picard	BaseDistributionByCycle	NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001_R2	/home/mokaguys/Documents/Nana/Test-repo/2/test_R1_001.base_distribution_by_cycle_metrics
+Picard	BaseDistributionByCycle	NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001_R1	/home/mokaguys/Documents/Nana/Test-repo/2/test_R1_001.base_distribution_by_cycle_metrics
