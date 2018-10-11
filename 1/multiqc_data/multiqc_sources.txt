@@ -1,0 +1,7 @@
+Module	Section	Sample Name	Source
+Picard	InsertSizeMetrics	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001	/home/guysmoka/Test-repo/1/test1_R1_001.insert_size_metrics
+Picard	BaseDistributionByCycle	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001_R1	/home/guysmoka/Test-repo/1/test1_R1_001.base_distribution_by_cycle_metrics
+Picard	BaseDistributionByCycle	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001_R2	/home/guysmoka/Test-repo/1/test1_R1_001.base_distribution_by_cycle_metrics
+Picard	DuplicationMetrics	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001	/home/guysmoka/Test-repo/1/test1_R1_001.output.metrics
+Picard	HsMetrics	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001	/home/guysmoka/Test-repo/1/test1_R1_001.hsmetrics.tsv
+Picard	AlignmentSummaryMetrics	NGS239B_29_206304_EP_F_CMCMD_Pan2022_S1_R1_001	/home/guysmoka/Test-repo/1/test1_R1_001.alignment_summary_metrics
