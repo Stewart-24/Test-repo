@@ -1,0 +1,449 @@
+Analysis started on Fri Sep 28 03:36:33 2018
+
+Opening Input Files
+Opening BAM file NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001.bam
+Reading header Records
+--selfOnly option applied : finding sample ID NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001 from VCF file
+Opening VCF file Omni25_genotypes_1525_samples_v2.b37.PASS.ALL.sites.vcf.gz
+Total of 0 out of 1 individuals successfully matched IDs
+Reading 10000 markers from VCF file
+Reading 20000 markers from VCF file
+Reading 30000 markers from VCF file
+Reading 40000 markers from VCF file
+Reading 50000 markers from VCF file
+Reading 60000 markers from VCF file
+Reading 70000 markers from VCF file
+Reading 80000 markers from VCF file
+Reading 90000 markers from VCF file
+Reading 100000 markers from VCF file
+Reading 110000 markers from VCF file
+Reading 120000 markers from VCF file
+Reading 130000 markers from VCF file
+Reading 140000 markers from VCF file
+Reading 150000 markers from VCF file
+Reading 160000 markers from VCF file
+Reading 170000 markers from VCF file
+Reading 180000 markers from VCF file
+Reading 190000 markers from VCF file
+Reading 200000 markers from VCF file
+Reading 210000 markers from VCF file
+Reading 220000 markers from VCF file
+Reading 230000 markers from VCF file
+Reading 240000 markers from VCF file
+Reading 250000 markers from VCF file
+Reading 260000 markers from VCF file
+Reading 270000 markers from VCF file
+Reading 280000 markers from VCF file
+Reading 290000 markers from VCF file
+Reading 300000 markers from VCF file
+Reading 310000 markers from VCF file
+Reading 320000 markers from VCF file
+Reading 330000 markers from VCF file
+Reading 340000 markers from VCF file
+Reading 350000 markers from VCF file
+Reading 360000 markers from VCF file
+Reading 370000 markers from VCF file
+Reading 380000 markers from VCF file
+Reading 390000 markers from VCF file
+Reading 400000 markers from VCF file
+Reading 410000 markers from VCF file
+Reading 420000 markers from VCF file
+Reading 430000 markers from VCF file
+Reading 440000 markers from VCF file
+Reading 450000 markers from VCF file
+Reading 460000 markers from VCF file
+Reading 470000 markers from VCF file
+Reading 480000 markers from VCF file
+Reading 490000 markers from VCF file
+Reading 500000 markers from VCF file
+Reading 510000 markers from VCF file
+Reading 520000 markers from VCF file
+Reading 530000 markers from VCF file
+Reading 540000 markers from VCF file
+Reading 550000 markers from VCF file
+Reading 560000 markers from VCF file
+Reading 570000 markers from VCF file
+Reading 580000 markers from VCF file
+Reading 590000 markers from VCF file
+Reading 600000 markers from VCF file
+Reading 610000 markers from VCF file
+Reading 620000 markers from VCF file
+Reading 630000 markers from VCF file
+Reading 640000 markers from VCF file
+Reading 650000 markers from VCF file
+Reading 660000 markers from VCF file
+Reading 670000 markers from VCF file
+Reading 680000 markers from VCF file
+Reading 690000 markers from VCF file
+Reading 700000 markers from VCF file
+Reading 710000 markers from VCF file
+Reading 720000 markers from VCF file
+Reading 730000 markers from VCF file
+Reading 740000 markers from VCF file
+Reading 750000 markers from VCF file
+Reading 760000 markers from VCF file
+Reading 770000 markers from VCF file
+Reading 780000 markers from VCF file
+Reading 790000 markers from VCF file
+Reading 800000 markers from VCF file
+Reading 810000 markers from VCF file
+Reading 820000 markers from VCF file
+Reading 830000 markers from VCF file
+Reading 840000 markers from VCF file
+Reading 850000 markers from VCF file
+Reading 860000 markers from VCF file
+Reading 870000 markers from VCF file
+Reading 880000 markers from VCF file
+Reading 890000 markers from VCF file
+Reading 900000 markers from VCF file
+Reading 910000 markers from VCF file
+Reading 920000 markers from VCF file
+Reading 930000 markers from VCF file
+Reading 940000 markers from VCF file
+Reading 950000 markers from VCF file
+Reading 960000 markers from VCF file
+Reading 970000 markers from VCF file
+Reading 980000 markers from VCF file
+Reading 990000 markers from VCF file
+Reading 1000000 markers from VCF file
+Reading 1010000 markers from VCF file
+Reading 1020000 markers from VCF file
+Reading 1030000 markers from VCF file
+Reading 1040000 markers from VCF file
+Reading 1050000 markers from VCF file
+Reading 1060000 markers from VCF file
+Reading 1070000 markers from VCF file
+Reading 1080000 markers from VCF file
+Reading 1090000 markers from VCF file
+Reading 1100000 markers from VCF file
+Reading 1110000 markers from VCF file
+Reading 1120000 markers from VCF file
+Reading 1130000 markers from VCF file
+Reading 1140000 markers from VCF file
+Reading 1150000 markers from VCF file
+Reading 1160000 markers from VCF file
+Reading 1170000 markers from VCF file
+Reading 1180000 markers from VCF file
+Reading 1190000 markers from VCF file
+Reading 1200000 markers from VCF file
+Reading 1210000 markers from VCF file
+Reading 1220000 markers from VCF file
+Reading 1230000 markers from VCF file
+Reading 1240000 markers from VCF file
+Reading 1250000 markers from VCF file
+Reading 1260000 markers from VCF file
+Reading 1270000 markers from VCF file
+Reading 1280000 markers from VCF file
+Reading 1290000 markers from VCF file
+Reading 1300000 markers from VCF file
+Reading 1310000 markers from VCF file
+Reading 1320000 markers from VCF file
+Reading 1330000 markers from VCF file
+Reading 1340000 markers from VCF file
+Reading 1350000 markers from VCF file
+Reading 1360000 markers from VCF file
+Reading 1370000 markers from VCF file
+Reading 1380000 markers from VCF file
+Reading 1390000 markers from VCF file
+Reading 1400000 markers from VCF file
+Reading 1410000 markers from VCF file
+Reading 1420000 markers from VCF file
+Reading 1430000 markers from VCF file
+Reading 1440000 markers from VCF file
+Reading 1450000 markers from VCF file
+Reading 1460000 markers from VCF file
+Reading 1470000 markers from VCF file
+Reading 1480000 markers from VCF file
+Reading 1490000 markers from VCF file
+Reading 1500000 markers from VCF file
+Reading 1510000 markers from VCF file
+Reading 1520000 markers from VCF file
+Reading 1530000 markers from VCF file
+Reading 1540000 markers from VCF file
+Reading 1550000 markers from VCF file
+Reading 1560000 markers from VCF file
+Reading 1570000 markers from VCF file
+Reading 1580000 markers from VCF file
+Reading 1590000 markers from VCF file
+Reading 1600000 markers from VCF file
+Reading 1610000 markers from VCF file
+Reading 1620000 markers from VCF file
+Reading 1630000 markers from VCF file
+Reading 1640000 markers from VCF file
+Reading 1650000 markers from VCF file
+Reading 1660000 markers from VCF file
+Reading 1670000 markers from VCF file
+Reading 1680000 markers from VCF file
+Reading 1690000 markers from VCF file
+Reading 1700000 markers from VCF file
+Reading 1710000 markers from VCF file
+Reading 1720000 markers from VCF file
+Reading 1730000 markers from VCF file
+Reading 1740000 markers from VCF file
+Reading 1750000 markers from VCF file
+Reading 1760000 markers from VCF file
+Reading 1770000 markers from VCF file
+Reading 1780000 markers from VCF file
+Reading 1790000 markers from VCF file
+Reading 1800000 markers from VCF file
+Reading 1810000 markers from VCF file
+Reading 1820000 markers from VCF file
+Reading 1830000 markers from VCF file
+Reading 1840000 markers from VCF file
+Reading 1850000 markers from VCF file
+Reading 1860000 markers from VCF file
+Reading 1870000 markers from VCF file
+Reading 1880000 markers from VCF file
+Reading 1890000 markers from VCF file
+Reading 1900000 markers from VCF file
+Reading 1910000 markers from VCF file
+Reading 1920000 markers from VCF file
+Reading 1930000 markers from VCF file
+Reading 1940000 markers from VCF file
+Reading 1950000 markers from VCF file
+Reading 1960000 markers from VCF file
+Reading 1970000 markers from VCF file
+Reading 1980000 markers from VCF file
+Reading 1990000 markers from VCF file
+Reading 2000000 markers from VCF file
+Reading 2010000 markers from VCF file
+Reading 2020000 markers from VCF file
+Reading 2030000 markers from VCF file
+Reading 2040000 markers from VCF file
+Reading 2050000 markers from VCF file
+Reading 2060000 markers from VCF file
+Reading 2070000 markers from VCF file
+Reading 2080000 markers from VCF file
+Reading 2090000 markers from VCF file
+Reading 2100000 markers from VCF file
+Reading 2110000 markers from VCF file
+Reading 2120000 markers from VCF file
+Skipping no-autosomal marker X:60425
+Skipping no-autosomal marker X:60692
+Skipping no-autosomal marker X:60882
+Skipping no-autosomal marker X:62321
+Skipping no-autosomal marker X:145805
+Reading 2130000 markers from VCF file
+Reading 2140000 markers from VCF file
+Reading 2150000 markers from VCF file
+Reading 2160000 markers from VCF file
+Reading 2170000 markers from VCF file
+Finished reading 2179582 markers from VCF file
+Total of 1781659 informative markers passed after AF >= 0.010000 and callRate >= 0.500000 threshold
+Reading BAM file NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001.bam
+Extracting read information in 10000 markers from BAM file
+Extracting read information in 20000 markers from BAM file
+Extracting read information in 30000 markers from BAM file
+Extracting read information in 40000 markers from BAM file
+Extracting read information in 50000 markers from BAM file
+Extracting read information in 60000 markers from BAM file
+Extracting read information in 70000 markers from BAM file
+Extracting read information in 80000 markers from BAM file
+Extracting read information in 90000 markers from BAM file
+Extracting read information in 100000 markers from BAM file
+Extracting read information in 110000 markers from BAM file
+Extracting read information in 120000 markers from BAM file
+Extracting read information in 130000 markers from BAM file
+Extracting read information in 140000 markers from BAM file
+Extracting read information in 150000 markers from BAM file
+Extracting read information in 160000 markers from BAM file
+Extracting read information in 170000 markers from BAM file
+Extracting read information in 180000 markers from BAM file
+Extracting read information in 190000 markers from BAM file
+Extracting read information in 200000 markers from BAM file
+Extracting read information in 210000 markers from BAM file
+Extracting read information in 220000 markers from BAM file
+Extracting read information in 230000 markers from BAM file
+Extracting read information in 240000 markers from BAM file
+Extracting read information in 250000 markers from BAM file
+Extracting read information in 260000 markers from BAM file
+Extracting read information in 270000 markers from BAM file
+Extracting read information in 280000 markers from BAM file
+Extracting read information in 290000 markers from BAM file
+Extracting read information in 300000 markers from BAM file
+Extracting read information in 310000 markers from BAM file
+Extracting read information in 320000 markers from BAM file
+Extracting read information in 330000 markers from BAM file
+Extracting read information in 340000 markers from BAM file
+Extracting read information in 350000 markers from BAM file
+Extracting read information in 360000 markers from BAM file
+Extracting read information in 370000 markers from BAM file
+Extracting read information in 380000 markers from BAM file
+Extracting read information in 390000 markers from BAM file
+Extracting read information in 400000 markers from BAM file
+Extracting read information in 410000 markers from BAM file
+Extracting read information in 420000 markers from BAM file
+Extracting read information in 430000 markers from BAM file
+Extracting read information in 440000 markers from BAM file
+Extracting read information in 450000 markers from BAM file
+Extracting read information in 460000 markers from BAM file
+Extracting read information in 470000 markers from BAM file
+Extracting read information in 480000 markers from BAM file
+Extracting read information in 490000 markers from BAM file
+Extracting read information in 500000 markers from BAM file
+Extracting read information in 510000 markers from BAM file
+Extracting read information in 520000 markers from BAM file
+Extracting read information in 530000 markers from BAM file
+Extracting read information in 540000 markers from BAM file
+Extracting read information in 550000 markers from BAM file
+Extracting read information in 560000 markers from BAM file
+Extracting read information in 570000 markers from BAM file
+Extracting read information in 580000 markers from BAM file
+Extracting read information in 590000 markers from BAM file
+Extracting read information in 600000 markers from BAM file
+Extracting read information in 610000 markers from BAM file
+Extracting read information in 620000 markers from BAM file
+Extracting read information in 630000 markers from BAM file
+Extracting read information in 640000 markers from BAM file
+Extracting read information in 650000 markers from BAM file
+Extracting read information in 660000 markers from BAM file
+Extracting read information in 670000 markers from BAM file
+Extracting read information in 680000 markers from BAM file
+Extracting read information in 690000 markers from BAM file
+Extracting read information in 700000 markers from BAM file
+Extracting read information in 710000 markers from BAM file
+Extracting read information in 720000 markers from BAM file
+Extracting read information in 730000 markers from BAM file
+Extracting read information in 740000 markers from BAM file
+Extracting read information in 750000 markers from BAM file
+Extracting read information in 760000 markers from BAM file
+Extracting read information in 770000 markers from BAM file
+Extracting read information in 780000 markers from BAM file
+Extracting read information in 790000 markers from BAM file
+Extracting read information in 800000 markers from BAM file
+Extracting read information in 810000 markers from BAM file
+Extracting read information in 820000 markers from BAM file
+Extracting read information in 830000 markers from BAM file
+Extracting read information in 840000 markers from BAM file
+Extracting read information in 850000 markers from BAM file
+Extracting read information in 860000 markers from BAM file
+Extracting read information in 870000 markers from BAM file
+Extracting read information in 880000 markers from BAM file
+Extracting read information in 890000 markers from BAM file
+Extracting read information in 900000 markers from BAM file
+Extracting read information in 910000 markers from BAM file
+Extracting read information in 920000 markers from BAM file
+Extracting read information in 930000 markers from BAM file
+Extracting read information in 940000 markers from BAM file
+Extracting read information in 950000 markers from BAM file
+Extracting read information in 960000 markers from BAM file
+Extracting read information in 970000 markers from BAM file
+Extracting read information in 980000 markers from BAM file
+Extracting read information in 990000 markers from BAM file
+Extracting read information in 1000000 markers from BAM file
+Extracting read information in 1010000 markers from BAM file
+Extracting read information in 1020000 markers from BAM file
+Extracting read information in 1030000 markers from BAM file
+Extracting read information in 1040000 markers from BAM file
+Extracting read information in 1050000 markers from BAM file
+Extracting read information in 1060000 markers from BAM file
+Extracting read information in 1070000 markers from BAM file
+Extracting read information in 1080000 markers from BAM file
+Extracting read information in 1090000 markers from BAM file
+Extracting read information in 1100000 markers from BAM file
+Extracting read information in 1110000 markers from BAM file
+Extracting read information in 1120000 markers from BAM file
+Extracting read information in 1130000 markers from BAM file
+Extracting read information in 1140000 markers from BAM file
+Extracting read information in 1150000 markers from BAM file
+Extracting read information in 1160000 markers from BAM file
+Extracting read information in 1170000 markers from BAM file
+Extracting read information in 1180000 markers from BAM file
+Extracting read information in 1190000 markers from BAM file
+Extracting read information in 1200000 markers from BAM file
+Extracting read information in 1210000 markers from BAM file
+Extracting read information in 1220000 markers from BAM file
+Extracting read information in 1230000 markers from BAM file
+Extracting read information in 1240000 markers from BAM file
+Extracting read information in 1250000 markers from BAM file
+Extracting read information in 1260000 markers from BAM file
+Extracting read information in 1270000 markers from BAM file
+Extracting read information in 1280000 markers from BAM file
+Extracting read information in 1290000 markers from BAM file
+Extracting read information in 1300000 markers from BAM file
+Extracting read information in 1310000 markers from BAM file
+Extracting read information in 1320000 markers from BAM file
+Extracting read information in 1330000 markers from BAM file
+Extracting read information in 1340000 markers from BAM file
+Extracting read information in 1350000 markers from BAM file
+Extracting read information in 1360000 markers from BAM file
+Extracting read information in 1370000 markers from BAM file
+Extracting read information in 1380000 markers from BAM file
+Extracting read information in 1390000 markers from BAM file
+Extracting read information in 1400000 markers from BAM file
+Extracting read information in 1410000 markers from BAM file
+Extracting read information in 1420000 markers from BAM file
+Extracting read information in 1430000 markers from BAM file
+Extracting read information in 1440000 markers from BAM file
+Extracting read information in 1450000 markers from BAM file
+Extracting read information in 1460000 markers from BAM file
+Extracting read information in 1470000 markers from BAM file
+Extracting read information in 1480000 markers from BAM file
+Extracting read information in 1490000 markers from BAM file
+Extracting read information in 1500000 markers from BAM file
+Extracting read information in 1510000 markers from BAM file
+Extracting read information in 1520000 markers from BAM file
+Extracting read information in 1530000 markers from BAM file
+Extracting read information in 1540000 markers from BAM file
+Extracting read information in 1550000 markers from BAM file
+Extracting read information in 1560000 markers from BAM file
+Extracting read information in 1570000 markers from BAM file
+Extracting read information in 1580000 markers from BAM file
+Extracting read information in 1590000 markers from BAM file
+Extracting read information in 1600000 markers from BAM file
+Extracting read information in 1610000 markers from BAM file
+Extracting read information in 1620000 markers from BAM file
+Extracting read information in 1630000 markers from BAM file
+Extracting read information in 1640000 markers from BAM file
+Extracting read information in 1650000 markers from BAM file
+Extracting read information in 1660000 markers from BAM file
+Extracting read information in 1670000 markers from BAM file
+Extracting read information in 1680000 markers from BAM file
+Extracting read information in 1690000 markers from BAM file
+Extracting read information in 1700000 markers from BAM file
+Extracting read information in 1710000 markers from BAM file
+Extracting read information in 1720000 markers from BAM file
+Extracting read information in 1730000 markers from BAM file
+Extracting read information in 1740000 markers from BAM file
+Extracting read information in 1750000 markers from BAM file
+Extracting read information in 1760000 markers from BAM file
+Extracting read information in 1770000 markers from BAM file
+Extracting read information in 1780000 markers from BAM file
+Finished extracting 7097949 bases in 1781659 markers from BAM file -- Avg Depth = 3.984
+Finished Reading BAM file NGS237A_07_202700_CM_M_WES34_Pan493_S2_R1_001.bam and VCF file Omni25_genotypes_1525_samples_v2.b37.PASS.ALL.sites.vcf.gz
+
+Performing chip-free estimation of sample mixture at fixed reference bias parameters (1.000000, 0.500000, 0.000000)
+double VerifyBamID::computeMixLLK( 0.000000 | 1.000000, 0.500000, 0.000000 ) = -1291053.777777 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.050000 | 1.000000, 0.500000, 0.000000 ) = -1307887.904266 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.100000 | 1.000000, 0.500000, 0.000000 ) = -1316229.888999 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.150000 | 1.000000, 0.500000, 0.000000 ) = -1321898.609042 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.200000 | 1.000000, 0.500000, 0.000000 ) = -1326675.955296 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.250000 | 1.000000, 0.500000, 0.000000 ) = -1330880.864247 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.300000 | 1.000000, 0.500000, 0.000000 ) = -1334330.518718 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.350000 | 1.000000, 0.500000, 0.000000 ) = -1336528.712751 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.400000 | 1.000000, 0.500000, 0.000000 ) = -1337193.710060 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.450000 | 1.000000, 0.500000, 0.000000 ) = -1337349.088285 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.025000 | 1.000000, 0.500000, 0.000000 ) = -1300830.488562 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.015451 | 1.000000, 0.500000, 0.000000 ) = -1297115.131721 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.009549 | 1.000000, 0.500000, 0.000000 ) = -1294474.464711 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.005902 | 1.000000, 0.500000, 0.000000 ) = -1292758.556943 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.003647 | 1.000000, 0.500000, 0.000000 ) = -1291733.986478 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.002254 | 1.000000, 0.500000, 0.000000 ) = -1291175.376381 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.001393 | 1.000000, 0.500000, 0.000000 ) = -1290909.945925 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000861 | 1.000000, 0.500000, 0.000000 ) = -1290815.325907 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000178 | 1.000000, 0.500000, 0.000000 ) = -1290905.113252 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000778 | 1.000000, 0.500000, 0.000000 ) = -1290808.922096 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000709 | 1.000000, 0.500000, 0.000000 ) = -1290806.026822 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000506 | 1.000000, 0.500000, 0.000000 ) = -1290813.197432 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000669 | 1.000000, 0.500000, 0.000000 ) = -1290805.461920 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000661 | 1.000000, 0.500000, 0.000000 ) = -1290805.451074 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000663 | 1.000000, 0.500000, 0.000000 ) = -1290805.449963 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000663 | 1.000000, 0.500000, 0.000000 ) = -1290805.449962 for readGroup -1
+double VerifyBamID::computeMixLLK( 0.000663 | 1.000000, 0.500000, 0.000000 ) = -1290805.449963 for readGroup -1
+Optimal per-sample fMix = 0.000663, LLK0 = 1291053.777777, LLK1 = 1290805.449962
+
+calculating depth distribution
+finished calculating depth distribution
+Performing with-chip estimation of sample mixture at fixed reference bias parameter (1.000000, 0.500000, 0.000000)
+Analysis finished on Fri Sep 28 03:58:51 2018
+
